@@ -1,4 +1,3 @@
-setwd("/home/adeel/Documents/computer-science/data-science/exploratory-data-analysis/first-project/final")
 d1<-read.table("./household_power_consumption.txt", header = TRUE, sep = ";",na.strings = "?")
 
 #choose the dates we are extracting data from
